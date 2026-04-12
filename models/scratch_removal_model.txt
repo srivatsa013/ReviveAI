@@ -1,2 +1,0 @@
-Hugging Face Link:
-https://huggingface.co/Sami-on-hugging-face/RevAI_Scratch_Removal_Model
