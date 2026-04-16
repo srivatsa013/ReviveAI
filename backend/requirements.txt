@@ -5,3 +5,8 @@ opencv-python-headless
 tensorflow
 huggingface_hub
 gunicorn
+torch
+torchvision
+Pillow
+omegaconf
+PyYAML
